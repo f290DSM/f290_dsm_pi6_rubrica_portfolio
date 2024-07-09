@@ -9,9 +9,9 @@ Observe o exemplo abaixo, nele segmentamos título e subtítulo para melhor ente
 Subtítulos podem complementar o contexto do projeto em si, mas como não foi tipificado no modelo, podemos (não é obrigatório) utilizar abordagem abaixo:
 
 Complemente o título conforme os exemplos abaixo
-* "**SYMo: Aplicativo de Gestão Financeira Pessoal";
-* "**Análise e Desenvolvimento de um Aplicativo Móvel para Gestão de Finanças Pessoais: SYMo";
-* "**Aplicativo Móvel SYMo: Estudo de Caso para Desenvolvimento de aplicação para Auxílio à Gestão Financeira Pessoal"
+* "**SYMo: Aplicativo de Gestão Financeira Pessoal**";
+* "**Análise e Desenvolvimento de um Aplicativo Móvel para Gestão de Finanças Pessoais: SYMo**";
+* "**Aplicativo Móvel SYMo: Estudo de Caso para Desenvolvimento de aplicação para Auxílio à Gestão Financeira Pessoal**"
 
 ## Resumo
 
@@ -74,7 +74,7 @@ Parágrafo é um conjunto de frases que, unidas descrevem a ideia do escritor.
 
 Leia este parágrafo...
 
-**Quem domina nosso planeta? Provavelmente a primeira resposta à pergunta seria o homem ou, talvez, os peixes, que estão presentes nos rios lagos, oceanos... Os insetos são mais as abundantes criaturas do nosso planeta... A abelha é um inseto muito comum e é um dos mais importantes seres para o homem; seu grande valor não é apenas por seu produtos: mel, pólen, própolis, geleia real, cera e apitoxia (veneno) mas, principalmente a polinização.
+**Quem domina nosso planeta? Provavelmente a primeira resposta à pergunta seria o homem ou, talvez, os peixes, que estão presentes nos rios lagos, oceanos... Os insetos são mais as abundantes criaturas do nosso planeta... A abelha é um inseto muito comum e é um dos mais importantes seres para o homem; seu grande valor não é apenas por seu produtos: mel, pólen, própolis, geleia real, cera e apitoxia (veneno) mas, principalmente a polinização**.
 
 Este é um exemplo de parágrafo do tipo **CONE INVERTIDO**, note que foram entregues as ideias de maneira global até se chegar à um ponto específico, a polinização de abelhas.
 
@@ -114,7 +114,7 @@ Esta deve ser a parte mais detalhada do seu portfólio, recomenda-se entre 600 e
 
 Nela deve ser detalhado o material utilizado, o lugar onde se desenvolveu e o método que conduziu o trabalho, como a maioria foram desenvolvimento metodologias agéis como Scrum ou Kanban, seria prudente indicar sempre o método utilizado, geralmente o Scrum; 
 
-**Lembre-se de utilizar sempre os verbos no passado, como por exemplo: utilizou-se, foi conduzido, foi aplicado...
+**Lembre-se de utilizar sempre os verbos no passado, como por exemplo: utilizou-se, foi conduzido, foi aplicado...**
 
 > Frameworks como Design Thinkinhg utilizados para o processo de criação, caso tenham sido utilizados, seria interessante citar.
 
