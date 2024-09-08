@@ -103,7 +103,7 @@ Esta estrutura é uma excelente abordagem para seus parágrafos, o ponto princip
 #### Cone Invertido
 
 ```mermaid
-flowchart TB
+graph TB
 a( ------------------ DOMINIO ------------------- )
 b( ------------- HOMEN -------------- )
 c( ------ INSETOS ------- )
