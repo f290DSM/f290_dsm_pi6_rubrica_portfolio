@@ -1,12 +1,11 @@
 # Rúbrica para portfólios do quinto e sexto período
 
-Este documento tem como principal objetivo orientar os alunos para com observações e pontos importantes que devem ser observados na confecção do `Portfólio Acadêmico` que deverá ser entregue no sexto período.
+Este é um documento de orientação à pontos importantes para a confecção do `Portfólio Acadêmico` que deverá ser entregue no quinto e sexto período.
+As informações citadas neste documento foram criadas para atender ao template do Relatório a ser entregue como portfólio de projetos, objetivando a construção do conteúdo do portfólio de forma mais assertiva.
 
-As dicas citadas neste documento foram criadas com base no modelo disponibilizado pelo Professor Dr. Leonardo; com o objetivo de estruturar da melhor maneira possível o conteúdo do portfólio.
+As dicas citadas serão observadas pelos professores orientadores, Professora Dhebora e Professor Esdras; desta forma ficará será mais fácil atender a todos os pontos de atenção na escrita, assim como, estabelecer um possível padrão de documentação.
 
-As dicas citadas serão observadas pelos orientadores, Professora Dhebora e Professor Esdras; desta forma forma ficará mais claro para todos os pontos de atenção na escrita assim como um possível padrão de documentação.
-
-Este documento ainda está em evolução e poderá ser atualizado conforme a necessidade; todas as atualizações serão informadas pelo Teams ou em sala de aula.
+Este material está em evolução e poderá ser atualizado conforme a necessidade; todas as atualizações serão informadas pelo Teams ou em sala de aula.
 
 # DICAS
 
@@ -29,7 +28,7 @@ Complemente o título conforme os exemplos abaixo
 
 ## Resumo
 
-O resumo é o catão de visitas do seu trabalho acadêmico.  Ele é uma pequena amostra de tudo o que foi desenvolvido. Portanto o resumo deve conter:
+O resumo é o cartão de visitas do seu trabalho acadêmico. Ele é uma pequena amostra de tudo o que foi desenvolvido. Portanto esta seção deve conter os contextos abaixo escritos de forma resumida:
 1. Introdução de até 2 frases;
 2. Objetivo;
 3. Materiais e método;
@@ -44,24 +43,24 @@ O resumo é o catão de visitas do seu trabalho acadêmico.  Ele é uma pequena 
 
 ## Abstract
 
-O Abstract é a tradução do resumo, também recomenda-se 200 a 300 palavras.
+O Abstract é a tradução do resumo para língua estrangeira, neste caso, tendo o inglês estabelecido como padrão. Também se recomenda 200 a 300 palavras.
 
 ## Palavras-chave
 
-Palavras-chave server para indexação de trabalhos acadêmicos para consulta posterior em repositórios.
+Palavras-chave auxiliam a indexação de trabalhos acadêmicos, e facilitam a consulta posterior por temas em repositórios.
 
 > Utilize entre **3** ou **4** e no máximo **6**, quanto menos, mais especifica se torna a busca.  
 
 ## Introdução
 
-Introdução é uma revisão de literatura enxuta sugerindo-se entre 400 e 800 palavras utilizando o formato de **CONE INVERTIDO**, mas calma, desta vez entraremos nos assunto dos parágrafos! O objetivo é como sempre, é levar o leitor ao interesse e entendimento do seu portfólio acadêmico.
+A introdução é uma revisão de literatura enxuta e contextualização do tema. Sugere-se o uso de 400 a 800 palavras, utilizando o formato de CONE INVERTIDO, mas calma, desta vez entraremos no assunto dos parágrafos! O objetivo é como sempre, levar o leitor ao interesse e entendimento do seu portfólio acadêmico.
 
-> A introdução deve mostrar uma retrospectiva do trabalho. Dentre as formas de citação a paráfrase é melhor opção, evitar apud também é uma ótima opção. Na próxima atualização deste documento iremos incluir links para referências estejam centralizadas para simplificar as consultas.
+> A introdução deve mostrar uma retrospectiva do trabalho. Dentre as formas de citação a paráfrase é a melhor opção, evitar apud também é uma ótima opção. Na próxima atualização deste documento iremos incluir links para referências estejam centralizadas para simplificar as consultas.
 
 A introdução deve conter em seus parágrafos o passado, o presente e o futuro da pesquisa com os tópicos a seguir:
-1. Presente: importancia da pesquisa;
-2. Passado: o que já foi feito;
-3. Futuro: soluções possíveis concomitando com os objetivos propostos, no portfólio serão omitidos os objetivos.
+    1. **Presente e Contextualização** – importância/justificativa da pesquisa: breve descrição do cenário em que o tema está inserido. Ex: se você desenvolveu uma aplicação para leitura digital de documentos, tendo como objetivo a acessibilidade; deve iniciar seu texto descrevendo, por exemplo, a) o cenário de deficiência no país, b) a quantidade de pessoas que se beneficiariam diretamente com o que foi desenvolvido – isso dimensiona a demanda;
+    2. **Passado**: o que já foi feito;
+    3. **Futuro**: soluções possíveis concomitando com os objetivos propostos, no portfólio serão omitidos os objetivos.
 
 ## Os parágrafos...
 
@@ -105,7 +104,7 @@ Esta estrutura é uma excelente abordagem para seus parágrafos, o ponto princip
 ```mermaid
 graph TB
 a(QUEM DOMINA O PLANETA?)
-b(SERA QUE É O HOMEN?)
+b(SERA QUE É O HOMEM?)
 c(INSETOS SÃO A MAIORIA)
 d(ABELHAS SÂO IMPORTANTES)
 e(ABELHAS SÃO BENÉFICAS)
