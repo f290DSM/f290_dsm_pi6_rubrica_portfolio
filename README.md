@@ -104,10 +104,10 @@ Esta estrutura é uma excelente abordagem para seus parágrafos, o ponto princip
 
 ```mermaid
 graph TB
-a(QUAL ANIMAL DOMINA O PLANETA?)
+a(QUEM DOMINA O PLANETA?)
 b(SERA QUE É O HOMEN?)
-c(OS INSETOS SÃO A MAIORIA)
-d(ABELHAS SÂO MUITO IMPORTANTES)
+c(INSETOS SÃO A MAIORIA)
+d(ABELHAS SÂO IMPORTANTES)
 e(ABELHAS TRAZEM BENEFÍCIOS)
 f(A POLINIZACAO)
 
