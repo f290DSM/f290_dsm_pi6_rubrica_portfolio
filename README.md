@@ -104,12 +104,12 @@ Esta estrutura é uma excelente abordagem para seus parágrafos, o ponto princip
 
 ```mermaid
 graph TB
-a( ------------------ DOMINIO ------------------- )
-b( ------------- HOMEN -------------- )
-c( ------ INSETOS ------- )
-d( --- ABELHAS ---- )
-e( - BENEF. ABEL - )
-f( POLINIZACAO  )
+a(QUAL ANIMAL DOMINA O PLANETA?)
+b(SERA QUE É O HOMEN?)
+c(OS INSETOS SÃO A MAIORIA)
+d(ABELHAS SÂO MUITO IMPORTANTES)
+e(ABELHAS TRAZEM BENEFÍCIOS)
+f(A POLINIZACAO)
 
 a --> b 
 b --> c 
@@ -139,8 +139,8 @@ Agora que você entendeu a estrutura dos parágrafos `CONE INVERTIDO`, procure e
         p1c(Conclusão)
     end
     
-    is(Início de seção do portfólio)
-    cs(Conclusão de seção do portfólio)
+    is(Início de seção)
+    cs(Conclusão de seção)
 
     is --> p1i
     p1i --> p1d
